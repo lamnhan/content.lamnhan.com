@@ -1,2 +1,2 @@
 # About
-Content of [lamnhan.com](https://lamnhan.com)
+Content hosting for [lamnhan.com](https://lamnhan.com)
